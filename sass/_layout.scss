@@ -7,8 +7,12 @@
 }
 .header {
   height: 7rem;
+  font-size: 1.4rem;
   border-bottom: var(--color-Grey-light-2);
   background-color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 .content {
   display: flex;
